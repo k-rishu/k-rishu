@@ -54,7 +54,7 @@ A caching layer for slow-changing third-party data (bank details, PAN, CKYC) tha
 
 ### 📫 Connect
 
-[![Email](https://img.shields.io/badge/Email-krishi8271%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:krishi8271@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rishi4pcc%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rishi4pcc@gmail.com)
 
 ---
 
